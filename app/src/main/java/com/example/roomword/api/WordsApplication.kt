@@ -1,8 +1,7 @@
 package com.example.roomword.api
 
 import android.app.Application
-import com.example.roomword.api.WordRepository
-import com.example.roomword.db.WordRoomDatabase
+import com.example.roomword.WordRoomDatabase
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.SupervisorJob
 
